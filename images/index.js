@@ -1,0 +1,1 @@
+export const TAOISEACH = require('./antaoiseach.jpeg');
